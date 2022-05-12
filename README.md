@@ -17,7 +17,7 @@ In this Portfolio repository, you can find a number of my professional and perso
 
 ### Connectivity Tester
 
-This GUI application was developed to perform HTTP/TCP connectivity tests on various end points, on a the customer network (personal or profesional).
+This GUI application was developed to perform HTTP/TCP connectivity tests on various end points, on a the customer network (personal or professional).
 
 [![GitHub](./images/github.svg)](./projects/connectivity-tester/)
 **[View project](./projects/connectivity-tester/)**
