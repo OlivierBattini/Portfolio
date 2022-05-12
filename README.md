@@ -15,19 +15,26 @@ In this Portfolio repository, you can find a number of my professional and perso
 
 ## My professional projects
 
-### Connectivity Tester
+### Newtonian Gravity Real Time Simulator for virtual worlds
 
-This GUI application was developed to perform HTTP/TCP connectivity tests on various end points, on a the customer network (personal or professional).
+This newtonian gravity simulation library computes in real time position and velocity of 3D objects of the virtual world application.
 
-[![GitHub](./images/github.svg)](./projects/connectivity-tester/)
-**[View project](./projects/connectivity-tester/)**
+[![GitHub](./images/github.svg)](./projects/opensim-gravity-simulator/)
+**[View project](./projects/opensim-gravity-simulator/)**
 
-### Licensing File Generator
+### Molecule Viewer for virtual worlds
 
-This GUI application generates licence files based on a private key for licenced based applications.
+This library downloads and generates in the virtual world based on the specified molecule description file URL.
 
-[![GitHub](./images/github.svg)](./projects/licensing/)
-**[View project](./projects/licensing/)**
+[![GitHub](./images/github.svg)](./projects/opensim-molecule-viewer/)
+**[View project](./projects/opensim-molecule-viewer/)**
+
+### Procedural Terrain Generation for virtual worlds
+
+This library generates random terrain depending on user specified parameters and based on Perlin noise. The generated terrain is then loaded across the virtual world space.
+
+[![GitHub](./images/github.svg)](./projects/opensim-procedural-terrain-generation/)
+**[View project](./projects/opensim-procedural-terrain-generation/)**
 
 ### OpenBabel Service API
 
@@ -56,24 +63,16 @@ This GUI sends commands via simple HTTP calls to the specified Arduino chip URL.
 [![GitHub](./images/github.svg)](./projects/opensim-arduino/)
 **[View project](./projects/opensim-arduino/)**
 
-### Newtonian Gravity Real Time Simulator for virtual worlds
+### Licensing File Generator
 
-This newtonian gravity simulation library computes in real time position and velocity of 3D objects of the virtual world application.
+This GUI application generates licence files based on a private key for licenced based applications.
 
-[![GitHub](./images/github.svg)](./projects/opensim-gravity-simulator/)
-**[View project](./projects/opensim-gravity-simulator/)**
+[![GitHub](./images/github.svg)](./projects/licensing/)
+**[View project](./projects/licensing/)**
 
-### Molecule Viewer for virtual worlds
+### Connectivity Tester
 
-This library downloads and generates in the virtual world based on the specified molecule description file URL.
+This GUI application was developed to perform HTTP/TCP connectivity tests on various end points, on a the customer network (personal or profesional).
 
-[![GitHub](./images/github.svg)](./projects/opensim-molecule-viewer/)
-**[View project](./projects/opensim-molecule-viewer/)**
-
-### Procedural Terrain Generation for virtual worlds
-
-This library generates random terrain depending on user specified parameters and based on Perlin noise. The generated terrain is then loaded across the virtual world space.
-
-[![GitHub](./images/github.svg)](./projects/opensim-procedural-terrain-generation/)
-**[View project](./projects/opensim-procedural-terrain-generation/)**
-
+[![GitHub](./images/github.svg)](./projects/connectivity-tester/)
+**[View project](./projects/connectivity-tester/)**
