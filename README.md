@@ -4,7 +4,13 @@
 
 ## Who am I ?
 
-I'm Olivier Battini, an experimented developer since 15 years. I mostly developed in C# but I also use React.js, node.js...
+I am Olivier Battini, an experimented developer since 15 years. I mostly developed in C# but I also use React.js, node.js...
+
+I have an interest in various fields of IT :
+
+- Artificial Intelligence
+- Cloud Applications
+- Virtual Environments
 
 In this Portfolio repository, you can find a number of my professional and personal projects. Most projects are only partly showcased because of intellectual property considerations.
 
