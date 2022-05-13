@@ -31,7 +31,7 @@ This library downloads and generates in the virtual world based on the specified
 
 ### Procedural Terrain Generation for virtual worlds
 
-This library generates random terrain depending on user specified parameters and based on Perlin noise. The generated terrain is then loaded across the virtual world space.
+This library generates random terrain depending on user specified parameters and based on Perlin noise, and creates 3D vegetation randomly. The generated terrain and vegetation is then loaded across the virtual world space.
 
 [![GitHub](./images/github.svg)](./projects/opensim-procedural-terrain-generation/)
 **[View project](./projects/opensim-procedural-terrain-generation/)**
@@ -46,8 +46,7 @@ This service API uses the OpenBabel library to convert molecule file formats int
 
 Data from this service API is then processed by a virtual world application.
 
-[![GitHub](./images/github.svg)](./projects/openbabel-service-api/)
-**[View project](./projects/openbabel-service-api/)**
+**Project not showcased on GitHub**
 
 ### AIML Chat Bot for virtual worlds
 

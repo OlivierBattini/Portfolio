@@ -1,3 +1,12 @@
+/*
+ *    (C) Copyright 2013 Olivier Battini (https://olivierbattini.fr)
+ *
+ *    ALL RIGHTS RESERVED
+ *
+ *    This file is only published for showcase purposes and use in source and
+ *    binary forms, with or without modification, are not permitted in any way.
+ */
+ 
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
