@@ -1,4 +1,4 @@
-![Olivier Battini, Full Stack Developer](./images/linkedin-banner.jpg)
+![Olivier Battini, Full Stack Developer](./images/linkedin-banner-profile.jpg)
 
 # Welcome to my Portfolio
 
