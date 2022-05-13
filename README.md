@@ -2,7 +2,13 @@
 
 # Welcome to my Portfolio
 
+## Who am I ?
+
+I'm Olivier Battini, an experimented developer since 15 years. I mostly developed in C# but I also use React.js, node.js...
+
 In this Portfolio repository, you can find a number of my professional and personal projects. Most projects are only partly showcased because of intellectual property considerations.
+
+Please, visit my other profiles and websites :
 
 [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/olivier-battini/)
 **[My LinkedIn profile](https://www.linkedin.com/in/olivier-battini/)**
