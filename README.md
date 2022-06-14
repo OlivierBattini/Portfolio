@@ -25,7 +25,19 @@ Please, visit my other profiles and websites :
 [![Website](./images/person-circle.svg)](https://olivierbattini.fr)
 **[My website](https://olivierbattini.fr)**
 
-## My professional projects
+## Recent developments (recruitment tests)
+
+### Todo list
+
+A simple todo list application in React, with mocked backend services.
+
+[![GitHub](./images/github.svg)](https://olivierbattini.github.io/SogetiTasks/)
+**[View on Github pages](https://olivierbattini.github.io/SogetiTasks/)**
+
+[![GitHub](./images/github.svg)](https://github.com/OlivierBattini/SogetiTasks/tree/main/sogeti-tasks)
+**[View source code](https://github.com/OlivierBattini/SogetiTasks/tree/main/sogeti-tasks)**
+
+## My professional projects (C#)
 
 ### Newtonian Gravity Real Time Simulator for virtual worlds
 
